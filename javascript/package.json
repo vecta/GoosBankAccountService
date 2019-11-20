@@ -1,0 +1,15 @@
+{
+  "name": "goos-bank-account-service",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "SC North",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
